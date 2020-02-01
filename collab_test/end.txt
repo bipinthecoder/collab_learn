@@ -1,0 +1,7 @@
+total 24
+-rw-r--r--   1 bipinbabu  staff     0B Feb  1 16:04 end.txt
+-rw-r--r--   1 bipinbabu  staff    26B Feb  1 15:54 file_1.txt
+-rw-r--r--   1 bipinbabu  staff    11B Feb  1 15:45 name.txt
+-rw-r--r--   1 bipinbabu  staff    69B Feb  1 15:29 start.txt
+drwxr-xr-x  22 bipinbabu  staff   704B Feb  1 15:38 user1
+drwxr-xr-x  22 bipinbabu  staff   704B Feb  1 15:33 user2
